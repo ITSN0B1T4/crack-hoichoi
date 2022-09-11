@@ -8,7 +8,7 @@ pkg up -y
 pkg i python -y
 pip3 install -r requirements.txt
 pkg i git -y
-git clone https://github.com/ITZAKX21/crack-hoichoi
+git clone https://github.com/ITSN0B1T4/crack-hoichoi
 cd crack-hoichoi
 python hoichoi.py
 ````
