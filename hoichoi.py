@@ -1,3 +1,2 @@
-import os, hoichoi
-os.system('git pull')
-hoichoi
+import hoichoi
+main ()
