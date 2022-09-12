@@ -6,10 +6,10 @@ A simple python script for crack hoichoi account.
 ````
 pkg up -y
 pkg i python -y
-pip3 install -r requirements.txt
 pkg i git -y
 git clone https://github.com/ITSN0B1T4/crack-hoichoi
 cd crack-hoichoi
+pip3 install -r requirements.txt
 python hoichoi.py
 ````
 > NOW GIVE YOUR COMBOFILE PATH
